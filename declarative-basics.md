@@ -93,7 +93,7 @@ pipeline {
 <p><img src="img/intro/basic_snytax_commit_to_development.png" width=850/><p>
 
 3. Add a commit description and then click the **Commit Changes** button with the default selection of *Commit directly to the `development` branch* selected.
-4. Navigate back to the **helloworld-nodejs** *development* branch job on your Team Master and the job will complete successfully. Note some things from the log:
+4. Navigate back to the **helloworld-nodejs** *development* branch job on your Team Master and the job will complete successfully. Note some things from the log in the classic UI:
   
    i. The `Jenkinsfile` is being pulled from the **development** branch of your forked **helloworld-nodejs** repository.
    
